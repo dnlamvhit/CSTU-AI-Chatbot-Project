@@ -1,0 +1,17 @@
+student_email,class,units,grade,points
+student1@cstu.edu, AI Application-2024.01,1.5, A+,4
+student2@cstu.edu, AI Application-2024.01,1.5, A,4
+lam.dao@cstu.edu, Big Data Analytics-2024.01,1.5, A+,4
+student1@cstu.edu, Data Visualization-2024.01,1.5, A,4
+student2@cstu.edu, Data Visualization-2024.01,1.5, A+,4
+student1@cstu.edu, DevOps-2023.11,1.5, A,4
+student2@cstu.edu, DevOps-2023.11,1.5, A+,4
+lam.dao@cstu.edu, GenAI-2024.01,1.5,A,4
+student1@cstu.edu, GenAI-2024.01,1.5, A+,4
+student1@cstu.edu, NLP-2024.03,1.5, A,4
+student2@cstu.edu, NLP-2024.03,1.5, A,4
+lam.dao@cstu.edu, Machine Learning-2023.11,1.5,A-,3.67
+student1@cstu.edu, Python for AI-2024.03,1.5, A+,4
+student2@cstu.edu, Python for AI-2024.03,1.5, A+,4
+student1@cstu.edu, SQL-2024.03,1.5, B+,3
+student2@cstu.edu, SQL-2024.03,1.5, A+,4
