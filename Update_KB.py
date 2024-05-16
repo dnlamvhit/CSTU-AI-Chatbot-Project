@@ -71,7 +71,7 @@ def update_kb_openai():
 
 def update_kb_cstu():
     # Generating and using CSTU embedding model
-    embedding_model = "text-embedding-ada-002"
+    embedding_model = load('CSTU-embedding-model.mdl')
     
     # Create a reader object for the knowledge base file
     reader = PdfReader(file_name)
